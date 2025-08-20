@@ -27,7 +27,7 @@ contact_form_action = "#" # contact form works with [https://airform.io/] or [ht
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "&copy;ИП Байбус М.А., 2025 г."
+copyright = "&copy; 2025 г. ИП Байбус М.А."
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
