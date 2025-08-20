@@ -11,7 +11,7 @@
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "AlohaSchool"
+logo_text = "BaybusSchool"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -27,7 +27,7 @@ contact_form_action = "#" # contact form works with [https://airform.io/] or [ht
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "&copy;ИП Мирталибова Л.Т., 2025 г."
+copyright = "&copy;ИП Байбус М.А., 2025 г."
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -62,9 +62,9 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["AlohaSchool", "alohaschool", "alohaschool"]
-description = "Онлайн-школа «Алоха»"
-author = "Мирталибова Л.Т."
+keywords = ["BaybusSchool", "Baybusschool", "baybusschool"]
+description = "Онлайн-школа Марины Байбус"
+author = "Байбус М.А."
 # twitter = "zeon_studio"
 # image = "images/og-image.png"
 
