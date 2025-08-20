@@ -1,10 +1,10 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
 # baseURL = "/" # Деплой сайта на хостинг
-baseURL = "/alohaschool" # Деплой сайта на GitHub Pages
+baseURL = "/baybusschool" # Деплой сайта на GitHub Pages
 
 # Title of your website (required).
-title = "AlohaSchool"
+title = "BaybusSchool"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
