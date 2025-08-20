@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/" # Деплой сайта на хостинг
-# baseURL = "/baybusschool" # Деплой сайта на GitHub Pages
+# baseURL = "/" # Деплой сайта на хостинг
+baseURL = "/baybusschool" # Деплой сайта на GitHub Pages
 
 # Title of your website (required).
 title = "BaybusSchool"
