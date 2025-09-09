@@ -8,9 +8,9 @@
         <h1 class="mb-4 text-h4 lg:text-h1">
           {{ .title | markdownify }}
         </h1>
-        <!--<p class="mb-8">
+        <p class="mb-8">
           {{ .content | markdownify }}
-        </p>-->
+        </p>
         {{ with .button }}
         {{ if .enable }}
         <a class="btn btn-primary" href="{{ .link | absURL }}" {{ if strings.HasPrefix .link `http` }} target="_blank"
@@ -21,7 +21,7 @@
         {{ end }}
         {{ end }}
       </div>
-      <div class="col-12">
+      <!--<div class="col-12">
         {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]"
         "DisplayXL" "800x" ) }}
       </div>
@@ -37,7 +37,7 @@
           </li>
           {{ end }}
         </ul>
-      </div>
+      </div>-->
     </div>
   </div>
 </section>
